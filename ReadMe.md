@@ -7,6 +7,7 @@ The video processing part of this project has been written in Native code by usi
 We first developed this app with pure java but the processing performance was very poor. After converting the image processing module to the native code, we achived up to 70% performance gain.
 
 ### License 
+```
 
 Copyright 2012 Cagri Cetin, Cagatay Dokumaci
 
@@ -21,3 +22,5 @@ Copyright 2012 Cagri Cetin, Cagatay Dokumaci
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+```
