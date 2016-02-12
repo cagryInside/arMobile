@@ -1,2 +1,23 @@
-This is a Android Augmented reality project.
-We have developed this project C and Java both to make android applications better performance.
+### arMobile
+
+This is an Android open source augmented reality project. 
+
+The video processing part of this project has been written in Native code by using NDK. The rest of the project developed with android SDK. The purpose of usign NDK is to make the image processing process faster.
+
+We first developed this app with pure java but the processing performance was very poor. After converting the image processing module to the native code, we achived up to 70% performance gain.
+
+### License 
+
+Copyright 2012 Cagri Cetin, Cagatay Dokumaci
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
